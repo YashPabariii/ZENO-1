@@ -2,7 +2,7 @@
 
 # Project Title : Zeno
 
-Covid-19 resulted in significant geographical shifts in global supply and demand, which in turn has created problems for finely tuned global supply chains. Project Zeno is **a solution for complex and fragmented supply chain** issues created by disrupted market.
+Covid-19 resulted in significant geographical shifts in global supply and demand, which in turn has created problems for finely tuned global supply chains. Project Zeno is **a solution for complex and fragmented supply chain** issues created by disrupted market.It is a decentralised App.
 
 It utilizes the **Ethereum blockchain network and cloud off-chain databases** to provide effective gas pricing. Zeno provides an easy-to-use interface to manage inventory and connect with various parties throughout the supply chain journey, such as transportation providers and retailers. Products are tracked using a unique **Certificate of Origin**, ensuring transparency and traceability. 
 
